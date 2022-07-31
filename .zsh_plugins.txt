@@ -1,0 +1,16 @@
+lukechilds/zsh_nvm
+
+rubbyrussell/oh-my-zsh path:plugins/colored-man-pages
+rubbyrussell/oh-my-zsh path:plugins/command-not-found
+rubbyrussell/oh-my-zsh path:plugins/git
+rubbyrussell/oh-my-zsh path:plugins/git-extras
+rubbyrussell/oh-my-zsh path:plugins/node
+
+romkatv/powerlevel10k
+
+rupa/z
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-syntax-highlighting
+
