@@ -1,10 +1,10 @@
-lukechilds/zsh_nvm
+#lukechilds/zsh_nvm
 
-rubbyrussell/oh-my-zsh path:plugins/colored-man-pages
-rubbyrussell/oh-my-zsh path:plugins/command-not-found
-rubbyrussell/oh-my-zsh path:plugins/git
-rubbyrussell/oh-my-zsh path:plugins/git-extras
-rubbyrussell/oh-my-zsh path:plugins/node
+#rubbyrussell/oh-my-zsh path:plugins/colored-man-pages
+#rubbyrussell/oh-my-zsh path:plugins/command-not-found
+#rubbyrussell/oh-my-zsh path:plugins/git
+#rubbyrussell/oh-my-zsh path:plugins/git-extras
+#rubbyrussell/oh-my-zsh path:plugins/node
 
 romkatv/powerlevel10k
 
