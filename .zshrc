@@ -31,6 +31,14 @@ alias ll="ls -la "
 #       │ profile.d/nix.sh; fi # added by Nix installer" >> ~/.zshrc
 #
 
+# Export nvm completion settings for lukechilds/zsh-nvm plugin
+# this must be exported before the plugin is bundled!
+
+# export NVM_DIR=${HOME}/nvm
+# export NVM_COMPLETION=true
+
+
+
 # antibody
 antibody bundle < ~/.zsh_plugins.txt > ~/.zsh_plugins.sh
 source ~/.zsh_plugins.sh
