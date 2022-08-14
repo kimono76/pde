@@ -26,3 +26,18 @@ set noshowmode
 set updatetime=250
 set encoding=UTF-8
 set mouse=a
+
+"--- Plugins
+
+call plug#begin('~/.config/nvim/plugged')
+
+Plug 'sainnhe/gruvbox-material'
+
+call plug#end()
+
+"--- Colors
+set background=dark
+set termguicolors
+colorscheme gruvbox=material
+
+
