@@ -34,5 +34,8 @@ touch ~/.zshrc
 echo "if [ -e /home/vi-leno-ub/.nix-profile/etc/profile.d/nix.sh ]; then . /home/vi-leno-ub/.nix-profile/etc/
        │ profile.d/nix.sh; fi # added by Nix installer" >> ~/.zshrc
 
-# 
+# neovim
+mkdir -p ./.config/nvim
+
+
 
